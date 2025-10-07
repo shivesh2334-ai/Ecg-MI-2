@@ -1,10 +1,13 @@
 streamlit
-wfdb
-neurokit2
 numpy
 pandas
+wfdb
+neurokit2
+matplotlib
 scipy
 scikit-learn
 joblib
-matplotlib
 tensorflow
+opencv-python-headless
+pdf2image
+Pillow
